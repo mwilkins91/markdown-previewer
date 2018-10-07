@@ -1,0 +1,26 @@
+.markdown {
+	width: 100%;
+	display: block;
+	height: 100%;
+}
+
+.App label.title {
+	margin-bottom: 0;
+}
+
+.title {
+	padding: 12.5px 0;
+	display: block;
+}
+
+.textarea {
+	max-height: 80vh;
+}
+
+.columns {
+	height: 80vh;
+}
+
+.column {
+	width: 100%;
+}

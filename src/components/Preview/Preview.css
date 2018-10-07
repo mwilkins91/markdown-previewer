@@ -1,0 +1,22 @@
+.title-with-button {
+  display: flex;
+  align-items: center;
+}
+
+.title-with-button .button {
+  margin: 0 15px;
+}
+
+.App .title-with-button .title {
+  margin-bottom: 0;
+}
+
+.content {
+  padding: 0.625em;
+  word-break: break-all;
+}
+
+.App .content.textarea {
+  height: 100vh;
+  max-height: 80vh;
+}
